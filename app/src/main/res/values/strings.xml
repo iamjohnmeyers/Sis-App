@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sis\' App</string>
+    <string name="currentText"></string>
+    <string name="editText"></string>
+    <string name="title_activity_settings">Change Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="time_header">Time</string>
+    <string name="caregiver_header">Caregiver</string>
+    <string name="tablet_header">Day or Night Tablet</string>
+
+    <!-- Messages Preferences -->
+    <string name="time_title">Change Caregiver Arrival Time</string>
+    <string name="caregiver_title">Default reply action</string>
+    <string name="day_or_night_title">Change Tablet Preferences</string>
+
+    <string name="value_time"></string>
+    <string name="value_caregiver"></string>
+
+</resources>

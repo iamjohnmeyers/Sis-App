@@ -1,0 +1,42 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal">
+
+    <PreferenceCategory android:title="App Preferences">
+        <EditTextPreference
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Change Current Caregiver"
+            app:key="caregiver_pref"
+            app:useSimpleSummaryProvider="true" />
+        <ListPreference
+            android:entries="@array/tablet_names"
+            android:entryValues="@array/tablet_values"
+            android:key="day_or_night_pref"
+            android:title="Set Day or Night Tablet"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="flash_background"
+            android:title="Flash Background Periodically" />
+        <EditTextPreference
+            android:key="flash_interval"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Set Background Flash Interval (In Minutes)"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="About">
+
+    </PreferenceCategory>
+    <Preference
+        android:title="Made with love by John Meyers \nFor Sis \u2764\uFE0F "
+        app:summary="johnmeye.rs">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://johnmeye.rs" />
+    </Preference>
+
+</PreferenceScreen>

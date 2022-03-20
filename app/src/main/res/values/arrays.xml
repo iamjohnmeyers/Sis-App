@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="tablet_names">
+        <item name="0">Day time Tablet</item>
+        <item name="1">Night time Tablet</item>
+    </string-array>
+    <string-array name="tablet_values">
+        <item name="0">0</item>
+        <item name="1">1</item>
+    </string-array>
+</resources>
