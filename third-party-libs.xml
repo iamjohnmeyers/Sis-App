@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="topic.v2.xsd"  id="third-party-libs" title="Third Party Libraries">
+<chunk include-id="third-party-libs-tables">
+<chapter title="Back-End Libraries" id="Back-End_Libraries">
+<table>
+<tr><td>Project</td><td>Version</td><td>License</td></tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/activity#1.2.3'>androidx.activity:activity</a></td>
+<td>1.2.3</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/annotation#1.2.0'>androidx.annotation:annotation</a></td>
+<td>1.2.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.annotation:annotation-experimental</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/appcompat#1.3.0'>androidx.appcompat:appcompat</a></td>
+<td>1.3.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/appcompat#1.3.0'>androidx.appcompat:appcompat-resources</a></td>
+<td>1.3.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/topic/libraries/architecture/index.html'>androidx.arch.core:core-common</a></td>
+<td>2.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/topic/libraries/architecture/index.html'>androidx.arch.core:core-runtime</a></td>
+<td>2.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.cardview:cardview</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.collection:collection</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://tools.android.com'>androidx.constraintlayout:constraintlayout</a></td>
+<td>2.0.4</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://tools.android.com'>androidx.constraintlayout:constraintlayout-solver</a></td>
+<td>2.0.4</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.coordinatorlayout:coordinatorlayout</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/core#1.5.0'>androidx.core:core</a></td>
+<td>1.5.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.cursoradapter:cursoradapter</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.customview:customview</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.documentfile:documentfile</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.drawerlayout:drawerlayout</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.dynamicanimation:dynamicanimation</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/fragment#1.3.4'>androidx.fragment:fragment</a></td>
+<td>1.3.4</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.interpolator:interpolator</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.legacy:legacy-support-core-utils</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle#2.3.1'>androidx.lifecycle:lifecycle-common</a></td>
+<td>2.3.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/topic/libraries/architecture/index.html'>androidx.lifecycle:lifecycle-livedata</a></td>
+<td>2.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle#2.3.1'>androidx.lifecycle:lifecycle-livedata-core</a></td>
+<td>2.3.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle#2.3.1'>androidx.lifecycle:lifecycle-runtime</a></td>
+<td>2.3.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle#2.3.1'>androidx.lifecycle:lifecycle-viewmodel</a></td>
+<td>2.3.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle#2.3.1'>androidx.lifecycle:lifecycle-viewmodel-savedstate</a></td>
+<td>2.3.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.loader:loader</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.localbroadcastmanager:localbroadcastmanager</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.preference:preference</a></td>
+<td>1.1.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.print:print</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.recyclerview:recyclerview</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/savedstate#1.1.0'>androidx.savedstate:savedstate</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx/releases/tracing#1.0.0'>androidx.tracing:tracing</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.transition:transition</a></td>
+<td>1.2.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.vectordrawable:vectordrawable</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.vectordrawable:vectordrawable-animated</a></td>
+<td>1.1.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.versionedparcelable:versionedparcelable</a></td>
+<td>1.1.1</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='http://developer.android.com/tools/extras/support-library.html'>androidx.viewpager:viewpager</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://developer.android.com/jetpack/androidx'>androidx.viewpager2:viewpager2</a></td>
+<td>1.0.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+<tr>
+<td><a href='https://github.com/material-components/material-components-android'>com.google.android.material:material</a></td>
+<td>1.4.0</td>
+<td><a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache License, Version 2.0</a></td>
+</tr>
+</table>
+</chapter>
+</chunk>
+</topic>
