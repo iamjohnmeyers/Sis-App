@@ -1,5 +1,17 @@
+import com.github.jk1.license.render.*
+import com.github.jk1.license.filter.*
+
 plugins {
     id 'com.android.application'
+    id 'com.github.jk1.dependency-license-report' version '2.0'
+}
+
+licenseReport {
+    outputDir = "$projectDir/build/licenses"
+    projects = [project] + project.subprojects
+    configurations = ['releaseRuntimeClasspath']
+    renderers = [new InventoryHtmlReportRenderer('third-party-libs.html', 'Back-End Libraries')]
+    filters = [new LicenseBundleNormalizer()]
 }
 
 android {

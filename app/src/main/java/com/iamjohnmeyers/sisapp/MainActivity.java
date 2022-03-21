@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements
         btnTimePicker.setOnClickListener(this);
         currentText = (TextView) findViewById(R.id.message);
         settings.setOnClickListener(this);
-        currentText.setText("TABLET NEEDS TO BE CONFIGURED. CALL BEN (985) 966-1952");
+        currentText.setText("TABLET NEEDS TO BE CONFIGURED. CALL BEN (xxx) xxx-xxxx");
 
     }
 

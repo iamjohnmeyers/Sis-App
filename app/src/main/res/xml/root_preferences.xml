@@ -29,14 +29,20 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="About">
-
+        <Preference
+            android:title="Made with love by John Meyers \nFor Sis \u2764\uFE0F "
+            app:summary="johnmeye.rs">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://johnmeye.rs" />
+        </Preference>
     </PreferenceCategory>
+    <PreferenceCategory android:title="Licenses"/>
     <Preference
-        android:title="Made with love by John Meyers \nFor Sis \u2764\uFE0F "
-        app:summary="johnmeye.rs">
+        android:title="View open source licenses"
+        app:summary="View on github">
         <intent
             android:action="android.intent.action.VIEW"
             android:data="http://johnmeye.rs" />
     </Preference>
-
 </PreferenceScreen>
