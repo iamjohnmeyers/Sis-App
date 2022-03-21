@@ -40,7 +40,7 @@
     <PreferenceCategory android:title="Licenses"/>
     <Preference
         android:title="View open source licenses"
-        app:summary="View on github">
+        app:summary="https://github.io">
         <intent
             android:action="android.intent.action.VIEW"
             android:data="http://johnmeye.rs" />
