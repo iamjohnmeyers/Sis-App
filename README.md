@@ -21,7 +21,7 @@ My grandmother
 
 ✅ The ability to set a new caregiver
 
-✅ Options to change the functionality of the tablet (whether the tablet functions as a "day" or "night" tablet)
+✅ Options to change whether the tablet functions as a "day" or "night" tablet
 
 ✅ A flashing background option to remind the user to drink at a customizable interval
 
