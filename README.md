@@ -15,6 +15,6 @@ My grandmother
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/features.png)
 
 ## Licenses
-A list of all open source licenses can be viewed here.
+A list of all open source licenses can be viewed [here](https://iamjohnmeyers.github.io/Sis-App/).
 
 The app icon (Old Woman Medium Light Skin Tone Icon Old Woman Emoji, Head, Face, Mouth, Lip Transparent Png) was made by Sam for [pngset.com](https://pngset.com/download-free-png-lpder). It is licensed under the [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). 
