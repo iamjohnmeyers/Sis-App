@@ -1,7 +1,7 @@
 # Sis' App 👵
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/icon.png)
 
-Sis' App was created to help my grandmother, "Sis," remember to drink fluids on a daily basis.
+Sis' App was created to help my grandmother, "Sis," remember to drink fluids on a daily basis. 🥤
 
 ## Before (The Problem) 🤔
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/before.jpg)
@@ -11,9 +11,11 @@ My 92 year old grandmother, "Sis," has started to show a lot more signs of Demen
 
 ## After (The Solution) 😍
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/after.jpg)
-My solution was to create an app that would replace the role of the rudimentary signs. With an 
+My solution was to create an app that would replace the role of the rudimentary signs. The solution would also include some new features previously impossible with the old paper system, such as screen flashing, and caregiver switching. 
 
-I created the app in Android Studio using Java ☕ and Android Jetpack libraries. 🚀
+I created and debugged the app in Android Studio using Java ☕ and Android Jetpack libraries. 🚀
+
+This solution runs on two cheap Android tablets that have screen dimming disabled.
 
 ## Features 💡
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/features.png)
@@ -30,7 +32,7 @@ I created the app in Android Studio using Java ☕ and Android Jetpack libraries
 ✅ A flashing background option to remind the user to drink at a customizable interval
 
 ## Installation ✨
-Sis' App can be installed on any Android device running Android 8.0 Oreo or later. You must give premission to allow .apk's from 3rd party "unknown" sources. 
+Sis' App can be installed on any Android device running Android 8.0 "Oreo" or later. You must give premission to allow .apk's from 3rd party "unknown" sources. 
 
 ## Licenses 📝
 A list of all open source licenses can be viewed [here](https://iamjohnmeyers.github.io/Sis-App/third-party-libs.html). All software is licensed under the [Apache Version 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
