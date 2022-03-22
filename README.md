@@ -1,7 +1,7 @@
-# Sis' App
+# Sis' App 
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/icon.png)
 
-Sis' App was created to help my 92 year old grandmother "Sis" remember to drink fluids on a daily basis.
+Sis' App was created to help my 92 year old grandmother, "Sis," remember to drink fluids on a daily basis.
 
 ## Before (The Problem)
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/before.jpg)
@@ -11,8 +11,19 @@ My grandmother
 ## After (The Solution)
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/after.jpg)
 
-## Features
+## Features 
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/features.png)
+✅ A modern and simple interface with Material Design
+
+✅ Adaptive font sizes that make reading on-screen text from a distance easy (regaurdless of what device is used)
+
+✅ An intutive clock GUI to select the time the next caregiver will arrive
+
+✅ The ability to set a new caregiver
+
+✅ Options to change the functionality of the tablet (whether the tablet functions as a "day" or "night" tablet)
+
+✅ A flashing background option to remind the user to drink at a customizable interval
 
 ## Licenses
 A list of all open source licenses can be viewed [here](https://iamjohnmeyers.github.io/Sis-App/third-party-libs.html). All software is licensed under the [Apache Version 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
