@@ -43,6 +43,6 @@
         app:summary="github.io">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="http://johnmeye.rs" />
+            android:data="https://iamjohnmeyers.github.io/Sis-App/third-party-libs.html" />
     </Preference>
 </PreferenceScreen>
