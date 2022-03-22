@@ -1,12 +1,11 @@
 # Sis' App 
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/icon.png)
 
-Sis' App was created to help my 92 year old grandmother, "Sis," remember to drink fluids on a daily basis.
+Sis' App was created to help my grandmother, "Sis," remember to drink fluids on a daily basis.
 
 ## Before (The Problem)
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/before.jpg)
-My grandmother
-
+My 92 year old grandmother, "Sis," has started to show a lot more signs of Dementia lately. Often she would forget to drink enough fluids each day, and would end up in the emergency room at the end of the week. To combat this, my father started to place out signs, with a reminder to drink muliple times throughout the day. Each sign would be accompined with the correct amount of fluids she needed to drink. **The problem** arose when my father no longer had the time to switch out these paper signs on a daily basis. When the signs stopped getting changed, she again became forgetful and started to go back to the hospital on a weekly basis. There needed to be a system in place to remind her, without any human interaction.
 
 ## After (The Solution)
 ![](https://raw.githubusercontent.com/iamjohnmeyers/Sis-App/master/readme%20images/after.jpg)
