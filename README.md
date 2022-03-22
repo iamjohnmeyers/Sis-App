@@ -32,7 +32,7 @@ This solution runs on two cheap Android tablets that have screen dimming disable
 ✅ A flashing background option to remind the user to drink at a customizable interval
 
 ## Installation ✨
-Sis' App can be installed on any Android device running Android 8.0 "Oreo" or later. You must give premission to allow .apk's from 3rd party "unknown" sources. 
+Sis' App can be installed on any Android device running Android 8.0 "Oreo" or later. You must give premission to allow .apk's from 3rd party "unknown" sources. You can download the app from the "Releases" panel or click [here](https://github.com/iamjohnmeyers/Sis-App/releases).
 
 ## Licenses 📝
 A list of all open source licenses can be viewed [here](https://iamjohnmeyers.github.io/Sis-App/third-party-libs.html). All software is licensed under the [Apache Version 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
